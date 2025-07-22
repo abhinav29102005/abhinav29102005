@@ -12,8 +12,6 @@ Hi, I'm Abhinav Kumar Singh<br>Studying from THAPAR INSTITUTE OF ENGINEERING AND
 ![](https://nirzak-streak-stats.vercel.app/?user=abhinav29102005&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav29102005&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abhinav29102005&theme=bear&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
