@@ -1,22 +1,207 @@
-# 💫 About Me:
-Hi, I'm Abhinav Kumar Singh<br>Studying from THAPAR INSTITUTE OF ENGINEERING AND TECHNOLOGY in BE/BTech [COMPUTER ENGINEERING]<br>Making some fun and exciting projects, and learning to be better.<br>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hi there! I'm **Abhinav Kumar Singh** 
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF6B35&background=00000000&center=true&vCenter=true&width=800&height=70&lines=Welcome+to+my+Digital+Universe!;Computer+Engineering+Student;AI+%26+ML+Enthusiast;Full+Stack+Developer;Building+the+Future+with+Code!" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinav_singh__29102005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-29-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asingh2910.official@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhinav29102005&theme=bear&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abhinav29102005&theme=bear&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav29102005&theme=bear&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="300"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhinav29102005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎓 **About Me**
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🏫 **Currently studying at:** THAPAR INSTITUTE OF ENGINEERING AND TECHNOLOGY  
+🎯 **Pursuing:** BE/BTech in COMPUTER ENGINEERING  
+🚀 **Mission:** Creating innovative solutions that bridge technology and human needs  
+💡 **Passion:** AI, Machine Learning, Computer Vision & Full-Stack Development  
+🌟 **Goal:** Contributing to open-source and building impactful projects  
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tech%20Arsenal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
+## 💻 **Languages & Frameworks**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,kotlin,react,nodejs,express,flask,flutter&theme=dark" />
+</div>
+
+## 🤖 **AI/ML & Data Science**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" />
+  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" />
+  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" />
+  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" />
+</div>
+
+## 🛢️ **Databases & Cloud**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&theme=dark" />
+</div>
+
+## 🛠️ **Tools & Technologies**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" />
+  <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6&height=180&section=header&text=Connect%20With%20Me&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=32"/>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/abhinav-29-">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/abhinav_singh__29102005">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="mailto:asingh2910.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=GitHub%20Analytics&fontSize=40&fontColor=fff&animation=blinking&fontAlignY=32"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinav29102005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav29102005&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav29102005&theme=radical&hide_border=true&background=0d1117&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakLabel=ffffff"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=180&section=header&text=Activity%20Graph&fontSize=40&fontColor=fff&animation=scaleIn&fontAlignY=32"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav29102005&custom_title=My%20Contribution%20Graph&bg_color=0d1117&color=ffffff&line=ff6b35&point=ff6b35&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,30&height=180&section=header&text=Featured%20Projects&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
+
+<div align="center">
+
+### 🚀 **Featured Projects**
+
+<div align="center">
+  <a href="https://github.com/abhinav29102005/telecom-tension">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav29102005&repo=telecom-tension&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff" alt="Telecom Tension" />
+  </a>
+  <a href="https://github.com/abhinav29102005/IEI-WEBSITE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav29102005&repo=IEI-WEBSITE&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff" alt="IEI Website" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/abhinav29102005/INVISIBLE-CLOAK">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav29102005&repo=INVISIBLE-CLOAK&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff" alt="Invisible Cloak" />
+  </a>
+  <a href="https://github.com/abhinav29102005/spaceship-game-opencv-python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav29102005&repo=spaceship-game-opencv-python&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff" alt="Spaceship Game OpenCV" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/abhinav29102005/eraser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav29102005&repo=eraser&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff" alt="Eraser Frontend" />
+  </a>
+  <a href="https://github.com/abhinav29102005/eraser-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhinav29102005&repo=eraser-backend&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b35&icon_color=ff6b35&text_color=ffffff" alt="Eraser Backend" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/abhinav29102005?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+  </a>
+</div>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,11&height=120&section=header&text=💡%20Random%20Dev%20Wisdom&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=25"/>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,6,20&height=180&section=header&text=Trophies%20%26%20Achievements&fontSize=35&fontColor=fff&animation=blinking&fontAlignY=32"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinav29102005&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
+</div>
+
+---
+
+## 🎯 **Current Focus Areas**
+
+<div align="center">
+  
+| 🤖 **Artificial Intelligence** | 👁️ **Computer Vision** | 📊 **Data Science** | 🌐 **Full-Stack Development** |
+|:---:|:---:|:---:|:---:|
+| Deep Learning | OpenCV | Machine Learning | React & Node.js |
+| Neural Networks | MediaPipe | Data Analysis | MongoDB & PostgreSQL |
+| NLP & GenAI | Image Processing | Predictive Models | Real-time Applications |
+| TensorFlow & PyTorch | Object Detection | Scikit-learn | RESTful APIs |
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,30,11&height=120&section=header&text=🚀%20Let's%20Build%20Something%20Amazing!&fontSize=28&fontColor=fff&animation=scaleIn&fontAlignY=25"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="60"> 
+  <em><b>Always ready to collaborate on exciting projects!</b></em>
+  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="60">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinav29102005&label=Profile%20Views&color=ff6b35&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/abhinav29102005?label=Followers&style=for-the-badge&color=ff6b35&labelColor=282828" alt="Followers" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+</div>
+
+---
+
+<div align="center">
+  <em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
+</div>
