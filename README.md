@@ -184,10 +184,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,30,11&height=120&section=header&text=🚀%20Let's%20Build%20Something%20Amazing!&fontSize=28&fontColor=fff&animation=scaleIn&fontAlignY=25"/>
 </div>
 
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="60"> 
-  <em><b>Always ready to collaborate on exciting projects!</b></em>
-  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="60">
+  <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif" width="500"> 
 </div>
 
 ---
