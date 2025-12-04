@@ -169,7 +169,7 @@
 
 <div align="center">
   
-|  **Artificial Intelligence** | 👁️ **Computer Vision** | 📊 **Data Science** | 🌐 **Full-Stack Development** |
+|  **Artificial Intelligence** |  **Computer Vision** |  **Data Science** |  **Full-Stack Development** |
 |:---:|:---:|:---:|:---:|
 | Deep Learning | OpenCV | Machine Learning | React & Node.js |
 | Neural Networks | MediaPipe | Data Analysis | MongoDB & PostgreSQL |
@@ -181,7 +181,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,30,11&height=120&section=header&text=🚀%20Let's%20Build%20Something%20Amazing!&fontSize=28&fontColor=fff&animation=scaleIn&fontAlignY=25"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,30,11&height=120&section=header&text=%20Let's%20Build%20Something%20Amazing!&fontSize=28&fontColor=fff&animation=scaleIn&fontAlignY=25"/>
 </div>
 
 
