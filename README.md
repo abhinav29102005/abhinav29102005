@@ -10,15 +10,15 @@
 
 ---
 
-## 🎓 **About Me**
+##  **About Me**
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🏫 **Currently studying at:** THAPAR INSTITUTE OF ENGINEERING AND TECHNOLOGY  
-🎯 **Pursuing:** BE/BTech in COMPUTER ENGINEERING  
-🚀 **Mission:** Creating innovative solutions that bridge technology and human needs  
-💡 **Passion:** AI, Machine Learning, Computer Vision & Full-Stack Development  
-🌟 **Goal:** Contributing to open-source and building impactful projects  
+**Currently studying at:** THAPAR INSTITUTE OF ENGINEERING AND TECHNOLOGY  
+**Pursuing:** BE/BTech in COMPUTER ENGINEERING  
+**Mission:** Creating innovative solutions that bridge technology and human needs  
+**Passion:** AI, Machine Learning, Computer Vision & Full-Stack Development  
+**Goal:** Contributing to open-source and building impactful projects  
 
 <br clear="right"/>
 
@@ -28,12 +28,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tech%20Arsenal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-## 💻 **Languages & Frameworks**
+##  **Languages & Frameworks**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,kotlin,react,nodejs,express,flask,flutter&theme=dark" />
 </div>
 
-## 🤖 **AI/ML & Data Science**
+##  **AI/ML & Data Science**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
   <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" />
@@ -43,12 +43,12 @@
   <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" />
 </div>
 
-## 🛢️ **Databases & Cloud**
+##  **Databases & Cloud**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase&theme=dark" />
 </div>
 
-## 🛠️ **Tools & Technologies**
+##  **Tools & Technologies**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&theme=dark" />
   <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" />
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-### 🚀 **Featured Projects**
+###  **Featured Projects**
 
 <div align="center">
   <a href="https://github.com/abhinav29102005/telecom-tension">
@@ -165,11 +165,11 @@
 
 ---
 
-## 🎯 **Current Focus Areas**
+##  **Current Focus Areas**
 
 <div align="center">
   
-| 🤖 **Artificial Intelligence** | 👁️ **Computer Vision** | 📊 **Data Science** | 🌐 **Full-Stack Development** |
+|  **Artificial Intelligence** | 👁️ **Computer Vision** | 📊 **Data Science** | 🌐 **Full-Stack Development** |
 |:---:|:---:|:---:|:---:|
 | Deep Learning | OpenCV | Machine Learning | React & Node.js |
 | Neural Networks | MediaPipe | Data Analysis | MongoDB & PostgreSQL |
