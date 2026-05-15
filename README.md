@@ -32,7 +32,7 @@ $ whoami && cat /etc/identity
 
 ```yaml
 name:       Abhinav Kumar Singh
-role:       Backend & Distributed Systems Engineer
+role:       Backend & Distributed Systems Aspirant
 university: Thapar Institute of Engineering & Technology
 degree:     B.E. Computer Engineering  [2024 → 2028]
 location:   Patiala, Punjab, IN
